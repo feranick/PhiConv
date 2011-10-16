@@ -1,0 +1,14 @@
+----------------------------------------------------------
+
+Name original file: b.ASC
+Comment: Si(111)-HF and I-passivated 
+Data type= N(E)
+Sweep Start= 30 eV
+Sweep End= 630 eV
+Number of sweeps= 3
+Range= 600 eV
+eV per Step= 1
+Time per Step= 0.02 s
+
+Curve saved in: b.dat
+-----------------------------------------------------------
